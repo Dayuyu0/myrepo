@@ -17,8 +17,6 @@
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
-<!-- 哈哈哈哈 -->
-<!-- 哈哈哈哈222 -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
